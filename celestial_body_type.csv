@@ -1,0 +1,29 @@
+type_id,name,category,description
+1,Planet,Terrestrial,"Composed of silicate rocks and metals, with a solid surface."
+2,Planet,Gas Giant,"Made of hydrogen and helium, like giant balls of gas. "
+3,Planet,Ice Giant,"Composed of heavier elements like water, ammonia and methane."
+4,Planet,Dwarf,Planets that orbit the sun but have not cleared the neighborhood around their orbit.
+5,Moon,Regular,Moons that orbit in the same direction as the planet.
+6,Moon ,Irregular,Moons with eccentric orbits. 
+7,Star,Main Sequence,A star that is fusing hydrogen and helium in its core. 
+8,Star,Red Giant,"An orange star where hydrogen fusion moves into the star's outer layers, causing them to expand."
+9,Star,White Dwarf,"A star that has shed all its atmosphere, only its core remains. "
+10,Star,Neutron Star ,"Stellar remnants, resulting from a supernova explosion. "
+11,Star,Red Dwarf,Small main sequence stars. They are the coolest. 
+12,Comet ,Periodic,Comets with orbits under 200 years. 
+13,Comet ,Long-Period,Comets with orbits over 200 years.
+14,Black Hole,Stellar-Mass,Formed from the collapse of massive stars. 
+15,Black Hole,Intermediate-Mass,With masses between stellar and supermassive Black Holes. 
+16,Black Hole,Supermassive ,Found at the center of most galaxies.
+17,Nebula,Emission ,Formed of ionized gases that emit light of various wavelengths.
+18,Nebula,Dark,"Molecular clouds that are so dense, they obscure the visible wavelengths of other objects behind them."
+19,Nebula,Planetary,"An expanding, glowing shell of ionized gas ejected from red giant stars. "
+20,Nebula,H II Region,A region of interstellar atomic hydrogen that is ionized. 
+21,Quasar,Radio_Loud,Emit strong radio waves from powerful jets. 
+22,Quasar,Radio_Quiet ,Quasars with a weaker radio emission. 
+21,Star,Orange Dwarf,"A star that is smaller, cooler, and less luminous than our Sun but larger and hotter than a red dwarf."
+22,Star,Subgiant,"A star that is brighter than a normal main-sequence star of the same spectral class, but not as bright as giant stars."
+23,Star,Subdwarf,"A subdwarf is a class of star that is fainter than a star of the same spectral type on the main sequence, but which is brighter than a white dwarf of the same temperature."
+24,Star,Brown Dwarf,"Substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars."
+25,Quasar,Microquasar,"A smaller version of a quasar, a compact region surrounding a stellar black hole with a mass several times that of its companion star, observable in sufficient detail, in our own or nearby galaxy."
+26,Comet ,Interstellar,"A comet that, instead of originating from our solar system, comes from another star system. "
