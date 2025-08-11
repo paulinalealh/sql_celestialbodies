@@ -1,5 +1,7 @@
 # Celestial Bodies
 
+In this project, I cleaned the data from celestial_bodies, ensuring there were no duplicates and standardizing sample sizes across categories. I removed irrelevant columns, renamed relevant ones, and standardized the dataset. For the Exploratory Data Analysis, I examined the general characteristics of the bodies, calculating measures such as mean, median, and mode, along with other statistical information.  
+
 All the information in this project was obtained from the following sources: 
 
 - https://science.nasa.gov/universe/stars/types
